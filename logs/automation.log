@@ -1,0 +1,8 @@
+17:25:00.101 [TestNG-test=Test-3] ERROR testCases.TC_003_LoginDDT - Login failed...
+17:25:00.356 [TestNG-test=Test-3] INFO  testCases.TC_003_LoginDDT - Home page Displayed
+17:25:00.408 [TestNG-test=Test-3] INFO  testCases.TC_003_LoginDDT - Clicked on My Account menu
+17:25:00.642 [TestNG-test=Test-3] INFO  testCases.TC_003_LoginDDT - Clicked on Login submenu
+17:25:00.722 [TestNG-test=Test-3] INFO  testCases.TC_003_LoginDDT - Provided email
+17:25:00.786 [TestNG-test=Test-3] INFO  testCases.TC_003_LoginDDT - Provided password
+17:25:01.008 [TestNG-test=Test-3] INFO  testCases.TC_003_LoginDDT - Clicked Login button
+17:25:11.065 [TestNG-test=Test-3] ERROR testCases.TC_003_LoginDDT - Login failed...
